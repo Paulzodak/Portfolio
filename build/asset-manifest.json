@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b9163c48.css",
+    "main.js": "/static/js/main.aff03fea.js",
+    "static/media/resume.pdf": "/static/media/resume.cdf120ce32b7154e0e3f.pdf",
+    "static/media/engineer.svg": "/static/media/engineer.5995444d2fbc3b2f563783ee8ffbb800.svg",
+    "static/media/link-solid.svg": "/static/media/link-solid.84b7b952209965497a7733d7f3ba8ea9.svg",
+    "index.html": "/index.html",
+    "static/media/moon-regular.svg": "/static/media/moon-regular.ba1519c104759f52714f5492d8163d6e.svg",
+    "static/media/user-regular.svg": "/static/media/user-regular.cd1b96d5488cb3c55aa2782fed726327.svg",
+    "static/media/toggleOn.svg": "/static/media/toggleOn.f44312371bdb20a29dbb926c1acb5ff9.svg",
+    "static/media/toggleOff.svg": "/static/media/toggleOff.9da43d6a8074aad47155cb21e07a5eaf.svg",
+    "static/media/download2.svg": "/static/media/download2.0de75bea90bc7148a1c1483975e0938f.svg",
+    "static/media/download.svg": "/static/media/download.dd83c5b616561a0ea0f6b248b40865fa.svg",
+    "static/media/menuIcon.svg": "/static/media/menuIcon.113d59e2703636dfe157ec8ec962d598.svg",
+    "static/media/downCaret.svg": "/static/media/downCaret.6ecdbe88604a95adabd3c7bec6026c55.svg",
+    "main.b9163c48.css.map": "/static/css/main.b9163c48.css.map",
+    "main.aff03fea.js.map": "/static/js/main.aff03fea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9163c48.css",
+    "static/js/main.aff03fea.js"
+  ]
+}
